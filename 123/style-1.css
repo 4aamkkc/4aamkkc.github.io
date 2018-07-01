@@ -1,0 +1,40 @@
+footer{
+	margin-top: 25px; 
+	text-align: center;
+	height: 100px;
+	width: 100%;
+	line-height: 110px;
+	text-decoration: none;
+	background: rgb(184, 23, 2);
+	color: #fff;
+    font-size: 30px;	
+}
+H3{
+    background:rgb(159, 216, 238); 
+}
+
+.aa2 img{
+        float: left;
+        display: block;
+}
+.content ttp{
+    width: 631px;
+    height: 635px;
+    overflow:hidden;
+
+}
+.omg-hover{
+    width: 631px;
+    height: 635px;
+    background:rgb(124, 206, 245);
+}
+.img-fluid{
+    max-width: 100%;
+    height:auto;
+}
+.BBT{
+    background-image:url(http://p17.qhimg.com/bdm/1440_900_85/d/_open360/design21226/1.jpg)
+}
+.yy{
+    background-image:url(http://p17.qhimg.com/bdr/__85/d/_open360/cy1025/12.jpg)
+}
